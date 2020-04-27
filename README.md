@@ -1,2 +1,4 @@
-# bootstrap-jquery-fontawesome
-My Bootstrap, jQuery, Font Awesome Template
+
+# html-css-js-template
+
+My project template for single-page HTML, CSS, JavaScript app projects.
